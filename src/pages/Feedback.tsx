@@ -14,6 +14,9 @@ const Feedback: React.FC = () => {
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [hoveredRating, setHoveredRating] = useState(0);
 
+  // <-- Added only this errors state for inline validation messages
+  const [errors, setErrors] = useState<{ name?: string; email?: string }>({});
+
   const feedbackTypes = [
     { value: 'general', label: 'General Feedback', icon: '💬' },
     { value: 'bug', label: 'Bug Report', icon: '🐛' },
@@ -25,10 +28,36 @@ const Feedback: React.FC = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    // In a real app, this would be sent to a backend
+
+    // Strict name validation: letters & spaces only, 2-50 chars
+    const nameTrim = formData.name.trim();
+    const nameRegex = /^[A-Za-z\s]{2,50}$/;
+
+    // Standard email validation
+    const emailTrim = formData.email.trim();
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+    const newErrors: { name?: string; email?: string } = {};
+
+    if (!nameTrim || !nameRegex.test(nameTrim)) {
+      newErrors.name = 'Please enter a valid name (letters & spaces only, 2–50 characters).';
+    }
+
+    if (!emailTrim || !emailRegex.test(emailTrim)) {
+      newErrors.email = 'Please enter a valid email address.';
+    }
+
+    setErrors(newErrors);
+
+    // Stop submission if there are validation errors
+    if (Object.keys(newErrors).length > 0) {
+      return;
+    }
+
+    // Proceed with submission (your original behavior)
     console.log('Feedback submitted:', formData);
     setIsSubmitted(true);
-    
+
     // Reset form after 3 seconds
     setTimeout(() => {
       setIsSubmitted(false);
@@ -39,6 +68,7 @@ const Feedback: React.FC = () => {
         rating: 0,
         feedback: ''
       });
+      setErrors({});
     }, 3000);
   };
 
@@ -134,6 +164,8 @@ const Feedback: React.FC = () => {
                   className="w-full px-4 py-3 rounded-xl border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-800 dark:text-white focus:ring-2 focus:ring-mauve-500 focus:border-mauve-500 transition-all font-poppins"
                   placeholder="Enter your name"
                 />
+                {/* inline name error */}
+                {errors.name && <p className="text-red-500 text-sm mt-1">{errors.name}</p>}
               </div>
               
               <div>
@@ -148,6 +180,8 @@ const Feedback: React.FC = () => {
                   className="w-full px-4 py-3 rounded-xl border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-800 dark:text-white focus:ring-2 focus:ring-mauve-500 focus:border-mauve-500 transition-all font-poppins"
                   placeholder="Enter your email"
                 />
+                {/* inline email error */}
+                {errors.email && <p className="text-red-500 text-sm mt-1">{errors.email}</p>}
               </div>
             </div>
 

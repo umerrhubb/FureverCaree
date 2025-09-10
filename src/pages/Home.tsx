@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import { Heart, ArrowRight, Sparkles, PawPrint } from 'lucide-react';
 import { useAppContext } from '../contexts/AppContext';
 import ScrollingTicker from '../components/ScrollingTicker';
-import Navbar from '../components/Navbar'; // ✅ added
+
 
 const Home: React.FC = () => {
   const { user, setUser, incrementVisitor } = useAppContext();
@@ -74,7 +74,7 @@ const Home: React.FC = () => {
     return (
       <div className="min-h-screen bg-gradient-to-br from-cream-50 via-mint-50 to-sky-50 dark:from-gray-900 dark:via-gray-800 dark:to-gray-900">
         <ScrollingTicker />
-        <Navbar /> {/* ✅ Navbar only after quiz */}
+        
         <div className="flex items-center justify-center min-h-screen px-4">
           <motion.div
             initial={{ scale: 0 }}
