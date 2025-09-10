@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "24/7 Emergency Vet Clinic",
+    "phone": "855-764-7661",
+    "address": "123 Emergency Blvd, Your City",
+    "type": "Emergency Clinic",
+    "hours": "24/7"
+  },
+  {
+    "id": "2",
+    "name": "Pet Poison Control Center",
+    "phone": "1-888-426-4435",
+    "address": "National Hotline",
+    "type": "Poison Control",
+    "hours": "24/7"
+  },
+  {
+    "id": "3",
+    "name": "Animal Control Services",
+    "phone": "03345400527",
+    "address": "456 Safety St, Your City",
+    "type": "Animal Control",
+    "hours": "8 AM - 10 PM"
+  }
+]

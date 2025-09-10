@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Daily Exercise Routines for pets",
+    "content": "Regular exercise is crucial for your dog's physical and mental health. Aim for 30 minutes to 2 hours daily depending on breed and age.",
+    "audioUrl": "https://example.com/audio1.mp3",
+    "videoUrl": "https://example.com/video1.mp4",
+    "tips": [
+      "Start with short walks for child pets",
+      "Vary the routes to keep it interesting",
+      "Include mental stimulation games"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Pet Dental Care",
+    "content": "Dental health is often overlooked in cats. Regular dental care prevents serious health issues later in life.",
+    "audioUrl": "https://example.com/audio2.mp3",
+    "videoUrl": "https://www.youtube.com/shorts/jpfRXhoDJE0",
+    "tips": [
+      "Brush teeth 2-3 times per week",
+      "Use pet-specific toothpaste",
+      "Provide dental treats and toys"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Pet Nutrition Basics",
+    "content": "Proper nutrition forms the foundation of your pet's health. Choose high-quality food appropriate for their life stage.",
+    "audioUrl": "https://example.com/audio3.mp3",
+    "videoUrl": "https://example.com/video3.mp4",
+    "tips": [
+      "Read ingredient labels carefully",
+      "Measure food portions accurately",
+      "Avoid toxic foods like chocolate and grapes"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Basic Dog Grooming - Brushing Techniques",
+    "videoId": "https://www.youtube.com/embed/YpzjiS5M8V0",
+    "description": "Learn proper brushing techniques for different coat types",
+    "duration": "10:30"
+  },
+  {
+    "id": "2",
+    "title": "Cat Nail Trimming Made Easy",
+    "videoId": "https://www.youtube.com/watch?v=Hr6zY0Yt6wE",
+    "description": "Step-by-step guide to safely trim your cat's nails",
+    "duration": "8:45"
+  },
+  {
+    "id": "3",
+    "title": "Bathing Your Dog - Professional Tips",
+    "videoId": "https://www.youtube.com/watch?v=KaQUMwzRhSI",
+    "description": "Professional groomer shares bathing secrets",
+    "duration": "12:15"
+  },
+  {
+  "id": "4",
+  "title": "Rabbit Grooming Basics - Brushing & Care",
+  "videoId": "https://www.youtube.com/watch?v=llHNERKyb1g",
+  "description": "Tips on brushing and maintaining your rabbit’s coat to prevent matting",
+  "duration": "9:20"
+},
+{
+  "id": "5",
+  "title": "How to Trim Your Bird's Nails Safely",
+  "videoId": "https://www.youtube.com/watch?v=akkHdRcqBXs",
+  "description": "Learn safe techniques for trimming bird nails at home",
+  "duration": "7:10"
+},
+{
+  "id": "6",
+  "title": "Pet Ear Cleaning Tutorial",
+  "videoId": "https://www.youtube.com/watch?v=21aKN-tcKrc",
+  "description": "Step-by-step guide to safely clean your Pet’s ears",
+  "duration": "6:55"
+}
+]

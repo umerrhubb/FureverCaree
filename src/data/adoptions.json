@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Buddy",
+    "species": "Dog",
+    "breed": "Golden Retriever",
+    "age": "2 years",
+    "image": "https://images.pexels.com/photos/551628/pexels-photo-551628.jpeg",
+    "description": "Friendly and energetic dog, great with kids",
+    "location": "Happy Paws Shelter, Austin, TX"
+  },
+  {
+    "id": "2",
+    "name": "Luna",
+    "species": "Cat",
+    "breed": "Siamese",
+    "age": "1 year",
+    "image": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg",
+    "description": "Calm and loving cat, perfect for apartments",
+    "location": "Feline Friends Shelter, Portland, OR"
+  },
+  {
+    "id": "3",
+    "name": "Max",
+    "species": "Dog",
+    "breed": "German Shepherd",
+    "age": "3 years",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/005/857/332/small_2x/funny-portrait-of-cute-corgi-dog-outdoors-free-photo.jpg",
+    "description": "Loyal and protective, needs experienced owner",
+    "location": "Second Chance Shelter, Denver,"
+  },
+  {
+    "id": "4",
+    "name": "Whiskers",
+    "species": "Cat",
+    "breed": "Maine Coon",
+    "age": "4 years",
+    "image": "https://cdn.pixabay.com/photo/2024/02/28/07/42/european-shorthair-8601492_640.jpg",
+    "description": "Gentle giant, loves to cuddle and hugs",
+    "location": "Cat Haven Shelter, Seattle, WA"
+  },
+  {
+    "id": "5",
+    "name": "Nibbles",
+    "species": "Rabbit",
+    "breed": "Holland Lop",
+    "age": "6 months",
+    "image": "https://vetsonparker.com.au/wp-content/uploads/2015/04/Rabbit-Facts.jpg",
+    "description": "Playful bunny, great for families",
+    "location": "Small Pets Rescue, Miami, FL"
+  }
+]

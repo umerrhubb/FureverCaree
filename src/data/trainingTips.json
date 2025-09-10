@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Basic Obedience Commands",
+    "content": "Teaching basic commands creates a foundation for good behavior and safety.",
+    "audioUrl": "https://example.com/training1.mp3",
+    "lessons": [
+      "Sit - The foundation command",
+      "Stay - Building self-control",
+      "Come - Essential for safety",
+      "Down - Teaching calm behavior"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "House Training Your Pet",
+    "content": "Consistent house training prevents accidents and creates good habits.",
+    "audioUrl": "https://example.com/training2.mp3",
+    "lessons": [
+      "Establish a routine",
+      "Choose a designated spot",
+      "Reward success immediately",
+      "Clean accidents thoroughly"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Socializing Your Pet",
+    "content": "Proper socialization helps pets become well-adjusted and confident.",
+    "audioUrl": "https://example.com/training3.mp3",
+    "lessons": [
+      "Start early with child pets",
+      "Introduce new experiences gradually",
+      "Use positive reinforcement",
+      "Practice in different environments"
+    ]
+  }
+]

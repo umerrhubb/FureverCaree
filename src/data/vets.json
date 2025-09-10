@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Sarah Johnson",
+    "specialization": "Small Animal Medicine",
+    "contact": "(555) 123-4567",
+    "email": "sarah.johnson@vetclinic.com",
+    "location": "New York, NY",
+    "address": "123 Pet Care Ave, New York, NY 10001",
+    "image": "https://medstarhealth-delivery.sitecorecontenthub.cloud/api/public/content/JOHNSON_Sarah_600",
+    "availableSlots": ["9:00 AM", "2:00 PM", "4:00 PM"],
+    "bookedSlots": ["10:00 AM", "11:00 AM", "1:00 PM"]
+  },
+  {
+    "id": "2",
+    "name": "Dr. Michael Chen",
+    "specialization": "Emergency Medicine",
+    "contact": "(555) 234-5678",
+    "email": "michael.chen@emergencyvet.com",
+    "location": "Los Angeles, CA",
+    "address": "456 Animal Hospital Blvd, Los Angeles, CA 90210",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8agEZueJ7RN6_jPfDcca5WWK0FdXf7nVPgw&s",
+    "availableSlots": ["8:00 AM", "3:00 PM", "5:00 PM"],
+    "bookedSlots": ["9:00 AM", "12:00 PM", "4:00 PM"]
+  },
+  {
+    "id": "3",
+    "name": "Dr. Emily Rodriguez",
+    "specialization": "Surgery",
+    "contact": "(555) 345-6789",
+    "email": "emily.rodriguez@surgicalvet.com",
+    "location": "Chicago, IL",
+    "address": "789 Surgery Center Dr, Chicago, IL 60601",
+    "image": "https://miro.medium.com/v2/1*hATEYt0u5wpq4VqRjsXfhQ.png",
+    "availableSlots": ["7:00 AM", "1:00 PM"],
+    "bookedSlots": ["9:00 AM", "11:00 AM", "3:00 PM", "5:00 PM"]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Premium Dog Food - Adult",
+    "category": "Food",
+    "price": 45.99,
+    "image": "https://m.media-amazon.com/images/I/41Aa4GsZizL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg",
+    "description": "High-quality nutrition for adult dogs with real chicken and vegetables",
+    "website": "https://www.amazon.com/Vital-Essentials-Freeze-Dried-Salmon-Organs/dp/B0DVNCGQ2X/ref=sr_1_2_sspa?adgrpid=163170973601&dib=eyJ2IjoiMSJ9.AATV3_R8nQmS39IpDuKmPdCo8fPqKAvHcEJoGCy0kwDhmRcwM3r1WZ5VsInCjvOOm4znjDokp-IOtWX9jx--afBmcvt66xI3nzWjRO-XqaK9KsYe0Mdmd8Nmjy97wBFD7YzSMgMSE3yG2UDWv0YkLKac-gJVZjOv2o7SVZM9MZemy47yAz_8NpiV3R6tlVQrd1edHZhAVyiZFS0-qvZHP6kB0r0L9JGR4RtrfOhECr9VabjPL7uKriWipDU3V6Z6U1hOZoIM_BDh2J1X4qoNc4o5GlZsiqnPR7pQlLkvzN8.lkQ9kncBY8xOSxUnPvyO7bZOFsqVr70_BBM-yJSUJ8o&dib_tag=se&hvadid=692696345267&hvdev=c&hvlocphy=9077147&hvnetw=g&hvqmt=e&hvrand=8682115921087213184&hvtargid=kwd-18657942&hydadcr=6761_13387526&keywords=premium+dog+food&mcid=94eb430c4a333bcd985b65ab7afe7b62&qid=1757488434&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+    "location": "New York, NY"
+  },
+  {
+    "id": "2",
+    "name": "Interactive Puzzle Toy",
+    "category": "Toys",
+    "price": 24.99,
+    "image": "https://headsupfortails.com/cdn/shop/files/8_3_f9748286-fc45-46e8-b5b9-ab4a44a5a7d4.jpg?v=1730812191&width=1445",
+    "description": "Engaging puzzle toy to keep your pet mentally stimulated",
+    "website": "https://headsupfortails.com/products/tlc-snuffle-pig-squeaky-plush-dog-toy-pink-blue",
+    "location": "Los Angeles, CA"
+  },
+  {
+    "id": "3",
+    "name": "Professional Grooming Kit",
+    "category": "Grooming Essentials",
+    "price": 89.99,
+    "image": "https://lillianruff.com/cdn/shop/files/67.png?v=1720554813",
+    "description": "Complete grooming set with brushes, clippers, and scissors",
+    "website": "https://www.amazon.com/Lillian-Ruff-Oatmeal-Shampoo-Conditioner/dp/B01LZKQKM6/ref=sr_1_3_sspa?adgrpid=145996228975&dib=eyJ2IjoiMSJ9.w1eXOxJ29dwDTjmXqeHnapK3olC_jptO0-jcshO0TC4zZUQcHxXyxXtAr17UT5yH27dlJoH_gZuQl5sHvpuENoZjmkIwBrw3GTp-W9Zwfdx74ojIfutOqYaonXBkjTISsCHVPWplbo3ejXymN35Vt9uVHUF2XjeNKyavmDvjVaagm4U6zyVF7rRiJnAZSejlK_HUSaD3slSlEhGAHWMYogVz2WOfbHPyEteJOZmsOzbrdxazvdF5cs85Vw5OVvaXRRiz40jHqcglDjTv9aM3Ijp67bXRygpAMxZMVUB63yQ.l_MaCxUMqhuf4NFhBiW5vzxJo2WFm2ZQfPzgTD6YvDI&dib_tag=se&hvadid=646329478497&hvdev=c&hvlocphy=9077149&hvnetw=g&hvqmt=b&hvrand=1664074368439097204&hvtargid=kwd-377945016636&hydadcr=22395_13333059&keywords=dog%2Bshampoo%2Band%2Bconditioner%2Bset&mcid=a740b3ecf7c13e34b96e300afa5b1643&qid=1757489045&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+    "location": "Chicago, IL"
+  },
+  {
+    "id": "4",
+    "name": "Luxury Pet Bed",
+    "category": "Bedding & Apparel",
+    "price": 129.99,
+    "image": "https://static-01.daraz.pk/p/d4111189c24b02dd177ea07e55e35f0a.jpg",
+    "description": "Ultra-comfortable orthopedic bed for better sleep",
+    "website": "https://www.daraz.pk/products/cat-ears-pet-bed-with-tail-luxury-cat-bed-velvet-soft-house-for-cats-puppies-premium-quality-cat-cushion-i494793447-s2360938357.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253Apet%252Bbed%252Bluxury%253Bnid%253A494793447%253Bsrc%253ALazadaMainSrp%253Brn%253A3c0805eb2a301171e508d91384bdf44b%253Bregion%253Apk%253Bsku%253A494793447_PK%253Bprice%253A1393.52%253Bclient%253Adesktop%253Bsupplier_id%253A6005174400095%253Bbiz_source%253Ah5_external%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10002292%253Bitem_id%253A494793447%253Bsku_id%253A2360938357%253Bshop_id%253A1614638%253BtemplateInfo%253A-1_A3_C%25231103_L%2523&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Punjab&price=1393.52&priceCompare=skuId%3A2360938357%3Bsource%3Alazada-search-voucher%3Bsn%3A3c0805eb2a301171e508d91384bdf44b%3BoriginPrice%3A139400%3BdisplayPrice%3A139400%3BsinglePromotionId%3A50000030976032%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1757489232155&ratingscore=4.962264150943396&request_id=3c0805eb2a301171e508d91384bdf44b&review=53&sale=244&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1",
+    "location": "Houston, TX"
+  },
+  {
+    "id": "5",
+    "name": "Joint Health Supplements",
+    "category": "Health Supplements",
+    "price": 1.94,
+    "image": "https://m.media-amazon.com/images/I/71BadkGTL+L._AC_SX679_.jpg",
+    "description": "Natural supplements to support joint health and mobility",
+    "website": "https://www.amazon.com/VICSOM-Probiotic-Probiotics-Digestive-Constipation/dp/B0F7RMQGQP/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.8JzW0cJmhiFZ1FrT0eK9XqzE-UCrHLJxdrxnyZT1z1aFXP5q4r02S2WBFECrpC-bYnyGBxuXDhJXr5TA88nu5qAWytGhOHFCorqlY1jFyHTjkt732qqZLCnyzEjUzRDPXZEQjJ7J3bkha6BxXcnTjuYaqBYGnr7LjMVT14DmPoW83yQJfL6rODPiCSt1EmZULWaBS2ABtzJ3UVPInsPcGeC6okTQqxM0OaisBpjfnOsqXbj2SzlSgPaq1ZcGA0gFRze89BAU12C_mWDfsdK0_gNUPU9W2QU-DNXm3nZw7Ck.KoRIS7plDOE6S6EPE1WbiMvFoX2MDxbN6HODXewoGNM&dib_tag=se&keywords=pet+supplements&qid=1757492834&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+    "location": "Miami, FL"
+  },
+  {
+    "id": "6",
+    "name": "Cat Premium Wet Food",
+    "category": "Food",
+    "price": 28.99,
+    "image": "https://petlinepakistan.com/cdn/shop/products/Untitleddesign-14.png?v=1672162004",
+    "description": "Grain-free wet food with real salmon for adult cats",
+    "website": "https://www.daraz.pk/products/400-2x-i387537014-s1910569001.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253Apremium%252Bcat%252Bwet%252Bfood%253Bnid%253A387537014%253Bsrc%253ALazadaMainSrp%253Brn%253Adb755166685db9eb16e1e5d09b515ab9%253Bregion%253Apk%253Bsku%253A387537014_PK%253Bprice%253A1300%253Bclient%253Adesktop%253Bsupplier_id%253A6005042544732%253Bbiz_source%253Ah5_external%253Bslot%253A1%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10373%253Bitem_id%253A387537014%253Bsku_id%253A1910569001%253Bshop_id%253A1080199%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Sindh&price=1.3E%203&priceCompare=skuId%3A1910569001%3Bsource%3Alazada-search-voucher%3Bsn%3Adb755166685db9eb16e1e5d09b515ab9%3BoriginPrice%3A130000%3BdisplayPrice%3A130000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1757493465144&ratingscore=4.090909090909091&request_id=db755166685db9eb16e1e5d09b515ab9&review=11&sale=64&search=1&source=search&spm=a2a0e.searchlist.list.1&stock=1",
+    "location": "Seattle, WA"
+  },
+  {
+    "id": "7",
+    "name": "Feather Wand Toy",
+    "category": "Toys",
+    "price": 47.8,
+    "image": "https://img.drz.lazcdn.com/g/kf/S65ce822066a34839aaaf65c092d0e5afb.jpg_720x720q80.jpg_.webp",
+    "description": "Interactive feather wand to encourage natural hunting instincts",
+    "website": "https://www.daraz.pk/products/2-i523028724-s2464505365.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253Afeather%252Bwands%253Bnid%253A523028724%253Bsrc%253ALazadaMainSrp%253Brn%253Aa554282f66f750131ff14bede9a4b4c5%253Bregion%253Apk%253Bsku%253A523028724_PK%253Bprice%253A478%253Bclient%253Adesktop%253Bsupplier_id%253A6005234928538%253Bbiz_source%253Ah5_external%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10383%253Bitem_id%253A523028724%253Bsku_id%253A2464505365%253Bshop_id%253A1778972%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523&configId=choice_PK_promotion&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Overseas&price=478&priceCompare=skuId%3A2464505365%3Bsource%3Alazada-search-voucher%3Bsn%3Aa554282f66f750131ff14bede9a4b4c5%3BoriginPrice%3A47800%3BdisplayPrice%3A47800%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1757493568719&ratingscore=5.0&request_id=a554282f66f750131ff14bede9a4b4c5&review=54&sale=1572&search=1&source=search&spm=a211g0.searchlist.list.0&stock=1&upItemIds=523028724",
+    "location": "Phoenix, AZ"
+  },
+  {
+    "id": "8",
+    "name": "Self-Cleaning Litter Box",
+    "category": "Grooming Essentials",
+    "price": 59.9,
+    "image": "https://img.drz.lazcdn.com/static/pk/p/8d15a633de9825f1e1284901eca21031.jpg_720x720q80.jpg_.webp",
+    "description": "Automated litter box that keeps itself clean",
+    "website": "https://www.daraz.pk/products/pawcomfort-kitten-litter-tray-with-free-scoop-only-for-kittens-4-different-colors-i110582015-s1375558979.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253Alitter%252Bbox%252Bfor%252Bcats%253Bnid%253A110582015%253Bsrc%253ALazadaMainSrp%253Brn%253A3dea452b91555eeabf2145d9f0d9ba67%253Bregion%253Apk%253Bsku%253A110582015_PK%253Bprice%253A599%253Bclient%253Adesktop%253Bsupplier_id%253A5441%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.pk%252F%253Bslot%253A3%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10402%253Bitem_id%253A110582015%253Bsku_id%253A1375558979%253Bshop_id%253A90633%253BtemplateInfo%253A-1_A3_C%25231103_L%2523&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Punjab&price=599&priceCompare=skuId%3A1375558979%3Bsource%3Alazada-search-voucher%3Bsn%3A3dea452b91555eeabf2145d9f0d9ba67%3BoriginPrice%3A59900%3BdisplayPrice%3A59900%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1757493779023&ratingscore=4.811267605633803&request_id=3dea452b91555eeabf2145d9f0d9ba67&review=710&sale=3394&search=1&source=search&spm=a2a0e.searchlist.list.3&stock=1",
+    "location": "Denver, CO"
+  },
+  {
+    "id": "9",
+    "name": "Cozy Cat Sweater",
+    "category": "Bedding & Apparel",
+    "price": 12.99,
+    "image": "https://m.media-amazon.com/images/I/71m-pYlBoQL._AC_SX679_.jpg",
+    "description": "Warm and stylish sweater for chilly days",
+    "website": "https://www.amazon.com/TORJOY-Professional-Surgical-Abdominal-Alternative/dp/B08NJGW3FZ/ref=sxin_17_pa_sp_search_thematic-asin_sspa?adgrpid=157957949031&content-id=amzn1.sym.5fc1ab9b-e3b9-4b11-bbe3-32c11b0c8106%3Aamzn1.sym.5fc1ab9b-e3b9-4b11-bbe3-32c11b0c8106&cv_ct_cx=cat%2Bclothes%2Bfor%2Bcats&hvadid=678747113970&hvdev=c&hvlocphy=9077147&hvnetw=g&hvqmt=b&hvrand=4751110974215650653&hvtargid=kwd-360558383277&hydadcr=10828_13660233&keywords=cat%2Bclothes%2Bfor%2Bcats&mcid=5fb147755de13a36978aaade3a59e6ab&pd_rd_i=B08NJGW3FZ&pd_rd_r=2e89bb06-123a-400b-8486-8afe20a66333&pd_rd_w=YdCBd&pd_rd_wg=tn0EF&pf_rd_p=5fc1ab9b-e3b9-4b11-bbe3-32c11b0c8106&pf_rd_r=9XZ5TYBTC1JHYWSQF4AG&qid=1757493881&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-4-baa1f287-65d3-41a3-a655-8bbba0531537-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1",
+    "location": "Boston, MA"
+  },
+  {
+    "id": "10",
+    "name": "Calming Treats",
+    "category": "Health Supplements",
+    "price": 35.95,
+    "image": "https://m.media-amazon.com/images/I/71qgLWaA5EL._AC_SX466_.jpg",
+    "description": "Natural treats to help reduce anxiety and promote relaxation",
+    "website": "https://www.amazon.com/Petlab-Co-Probiotics-Dogs-Allergies/dp/B089XVJHFK/ref=zg_bs_g_2975397011_d_sccl_3/136-6136558-0891041?th=1",
+    "location": "Portland, OR"
+  },
+  {
+    "id": "11",
+    "name": "Puppy Training Treats",
+    "category": "Food",
+    "price": 78.0,
+    "image": "https://img.drz.lazcdn.com/static/pk/p/286554666e00c4fca98493b67a12fecc.jpg_720x720q80.jpg_.webp",
+    "description": "Small, soft treats perfect for training sessions",
+    "website": "https://www.daraz.pk/products/pedigree-tasty-minis-dog-puppy-training-treats-125gm-i251672549-s1469094475.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253A%253Bnid%253A251672549%253Bsrc%253ALazadaMainSrp%253Brn%253Aaff526b20f85e2c637a6eeec6ec90d3d%253Bregion%253Apk%253Bsku%253A251672549_PK%253Bprice%253A780%253Bclient%253Adesktop%253Bsupplier_id%253A6005013363133%253Bbiz_source%253Ah5_external%253Bslot%253A2%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10322%253Bitem_id%253A251672549%253Bsku_id%253A1469094475%253Bshop_id%253A568184%253BtemplateInfo%253A-1_A3_C%25231103_L%2523&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Sindh&price=7.8E%202&priceCompare=skuId%3A1469094475%3Bsource%3Alazada-search-voucher%3Bsn%3Aaff526b20f85e2c637a6eeec6ec90d3d%3BoriginPrice%3A78000%3BdisplayPrice%3A78000%3BsinglePromotionId%3A50000030976032%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1757494124308&ratingscore=5.0&request_id=aff526b20f85e2c637a6eeec6ec90d3d&review=9&sale=149&search=1&source=search&spm=a2a0e.searchlistcategory.list.2&stock=1",
+    "location": "Atlanta, GA"
+  },
+  {
+    "id": "12",
+    "name": "Rope Tug Toy",
+    "category": "Toys",
+    "price": 9.99,
+    "image": "https://m.media-amazon.com/images/I/81FEca8CC9L._AC_SX679_.jpg",
+    "description": "Durable rope toy for tug-of-war and solo play",
+    "website": "https://www.amazon.com/Eefitoys-Heavy-Aggressive-Chewers-Medium/dp/B0DDL8F26V/ref=zg_bs_g_2975418011_d_sccl_4/136-6136558-0891041?psc=1",
+    "location": "Las Vegas, NV"
+  }
+]
